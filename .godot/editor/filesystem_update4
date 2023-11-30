@@ -1,0 +1,13 @@
+res://src/Game/game_manager.tscn
+res://assets/definitions/tiles/tile_definition_floor.tres
+res://assets/definitions/tiles/tile_definition_wall.tres
+res://assets/definitions/tiles/tile_definition_down_stairs.tres
+res://assets/resources/message_label_settings.tres
+res://src/Entities/Actors/Actions/AutoFightAction.gd
+res://src/Entities/Actors/Actions/bump_action.gd
+res://src/Game/EventHandlers/autofight_input_handler.gd
+res://src/Game/game.tscn
+res://src/Map/map_data.gd
+res://src/Game/game.gd
+res://src/Game/EventHandlers/main_game_input_handler.gd
+res://README.md
